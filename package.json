@@ -1,0 +1,30 @@
+{
+  "name": "dailyphilosophydbot",
+  "version": "1.0.0",
+  "description": "An experimental discord bot to share a daily dose of philosophy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heerahemanth1/DailyPhilosophyDBot.git"
+  },
+  "keywords": [
+    "discordjs",
+    "philosophy",
+    "discord-bot"
+  ],
+  "author": "Heera Hemanth",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/heerahemanth1/DailyPhilosophyDBot/issues"
+  },
+  "homepage": "https://github.com/heerahemanth1/DailyPhilosophyDBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
